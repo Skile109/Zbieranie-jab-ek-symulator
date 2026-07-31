@@ -1,4 +1,4 @@
-Hi, it's me Skie 109, I made a game in Python called Apple Picking Simulator
+Hi, it's me Skile 109, I made a game in Python called Apple Picking Simulator
 
 What is this game about:
 The game involves picking apples from the tree,
@@ -13,7 +13,7 @@ Have a nice game :P
 
 -------------For Polish (Dla Polaków)-------------
 
-Cześć, to ja, Skie 109, stworzyłem grę w Pajtonie o nazwie Symulator zbierania jabłek.
+Cześć, to ja, Skile 109, stworzyłem grę w Pajtonie o nazwie Symulator zbierania jabłek.
 
 O czym jest ta gra:
 Gra polega na zbieraniu jabłek z drzewa,
