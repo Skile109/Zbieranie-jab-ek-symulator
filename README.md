@@ -1,4 +1,4 @@
-Hi, it's me Skile 109, I made a game in Python called Apple Picking Simulator
+Hi, it's me Skile 109, I made a game in Python called Zbieranie jabłek symulator (Apple Picking Simulator)
 
 What is this game about:
 The game involves picking apples from the tree,
