@@ -1,15 +1,46 @@
 -------Android-----
-1Install pydroid 3 from the Google Play Store or install the APK
-2in the pydroid terminal and enter the command (pip install pygame)
-3.Go to this page, download and unzip it in 
-4.pydroid 3. Click the folder icon to open it. Allow permissions and select this project (Zbieranie jabłek symulator.py)
+1.Install pydroid 3 from the Google Play Store or install the APK
+2.in the pydroid terminal and enter the command (pip install pygame)
+3.Go to this page, download (Zbieranie Jabłek symulator.py) and unzip it in pydroid 3. 
+4.Click the folder icon to open it. Allow permissions and select this project (Zbieranie jabłek symulator.py)
 5.and click the yellow icon. 
 6.The project with the keyboard should open. Click Back to hide it.
 7.done
 Yes, I know there's a small screen in version 1.0. I'll fix that in version 1.1.
 
+
 -------Windows/linux/macOS-------
-1.zainstaluj Visual Studio Code
-2.click on the file and open the file, select the location of this project (Apple Picking Simulator.py)
-3.after selecting the project, click on open and the game window will open
-4.Done!
+1.install Visual Studio Code
+2.click extensions
+3.search for phyton and install
+4.click on the file and open the file, select the location of this project (Zbieranie Jabłek symulator.py)
+5.after selecting the project, click on Open,
+6.in terminal type "pip install pygame"
+7.After installing pygame, click open and the game window will open
+8.Done!
+
+--------------Poradnik dla Polaków--------------
+
+
+-------Android-----
+1.Zainstaluj pydroid 3 ze sklepu Google Play lub zainstaluj APK
+2.w terminalu pydroid i wpisz polecenie (pip install pygame)
+3.Przejdź na tę stronę, pobierz (Zbieranie Jabłek symulator.py) i rozpakuj w pydroid 3
+4.Kliknij ikonę folderu, Później otwórz. Zezwól na uprawnienia i wybierz ten projekt (Zbieranie jabłek symulator.py).
+5.i kliknij żółtą ikonę.
+6.gotowe
+Tak, wiem, że w wersji 1.0 jest mały ekran. Naprawię to w wersji 1.1.
+
+
+-------Windows/linux/macOS-------
+
+
+1. Zainstaluj Visual Studio Code
+2. Kliknij „Rozszerzenia”
+3. Wyszukaj „Pajton” i zainstaluj
+4. Kliknij plik i otwórz go, wybierając lokalizację tego projektu (Zbieranie Jabłek symulator.py)
+5. Po wybraniu projektu kliknij „Otwórz”,
+6. W terminalu wpisz „pip install pygame”
+7. Po zainstalowaniu pygame kliknij „Otwórz”, a otworzy się okno z grą
+8. Gotowe!
+
