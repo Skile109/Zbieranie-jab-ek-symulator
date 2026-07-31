@@ -30,5 +30,5 @@ i naprawienie mały ekran na urządzeniach mobilnych
 
 Miłej gry :P
 --------------------------
-Uwaga: Chociaż gra jest dostępna na licencji open source, jej kopiowanie jest niechciane. Dziękujemy za zrozumienie.
+Uwaga: Chociaż gra jest dostępna na licencji open source, jej kopiowanie jest zabronione. Dziękujemy za zrozumienie.
 Note: Although the game is available under an open source license, copying it without credit is discouraged. Thank you for your understanding.
