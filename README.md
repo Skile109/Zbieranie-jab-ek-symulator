@@ -8,6 +8,7 @@ The game was created in Poland
 
 What I want to add in v.1.1:
 English language option, changing biomes
+and small screen on mobile devices
 
 Have a nice game :P
 
@@ -24,6 +25,7 @@ Gra powstała w Polsce.
 Co chcę dodać w wersji 1.1:
 Wybór języka angielskiego
 Zmieniające się biomy i nowe koszyki
+i mały ekran na urządzeniach mobilnych
 
 Miłej gry :P
 --------------------------
