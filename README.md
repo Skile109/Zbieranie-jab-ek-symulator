@@ -7,8 +7,7 @@ Your goal is to buy the largest basket to win the game.
 The game was created in Poland
 
 What I want to add in v.1.1:
-English Language Choice
-changing biomes and new baskets
+English language option, changing biomes
 
 Have a nice game :P
 
@@ -29,4 +28,4 @@ Zmieniające się biomy i nowe koszyki
 Miłej gry :P
 --------------------------
 Uwaga: Chociaż gra jest dostępna na licencji open source, jej kopiowanie jest niechciane. Dziękujemy za zrozumienie.
-Note: Although the game is available under an open source license, Copying is discouraged. Thank you for your understanding.
+Note: Although the game is available under an open source license, copying it without credit is discouraged. Thank you for your understanding.
