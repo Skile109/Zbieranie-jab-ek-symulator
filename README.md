@@ -11,6 +11,7 @@ English Language Choice
 changing biomes and new baskets
 
 Have a nice game :P
+
 -------------For Polish (Dla Polaków)-------------
 Cześć, to ja, Skie 109, stworzyłem grę w Pajtonie o nazwie Symulator zbierania jabłek.
 
