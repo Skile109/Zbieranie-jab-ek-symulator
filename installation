@@ -1,1 +1,15 @@
 -------Android-----
+1Install pydroid 3 from the Google Play Store or install the APK
+2in the pydroid terminal and enter the command (pip install pygame)
+3.Go to this page, download and unzip it in 
+4.pydroid 3. Click the folder icon to open it. Allow permissions and select this project (Zbieranie jabłek symulator.py)
+5.and click the yellow icon. 
+6.The project with the keyboard should open. Click Back to hide it.
+7.done
+Yes, I know there's a small screen in version 1.0. I'll fix that in version 1.1.
+
+-------Windows/linux/macOS-------
+1.zainstaluj Visual Studio Code
+2.click on the file and open the file, select the location of this project (Apple Picking Simulator.py)
+3.after selecting the project, click on open and the game window will open
+4.Done!
